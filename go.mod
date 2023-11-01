@@ -7,11 +7,11 @@ require (
 	github.com/cespare/xxhash/v2 v2.2.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/json-iterator/go v1.1.12
-	github.com/prometheus/client_model v0.3.0
+	github.com/prometheus/client_model v0.5.0
 	github.com/prometheus/common v0.42.0
 	github.com/prometheus/procfs v0.11.1
 	golang.org/x/sys v0.10.0
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.31.0
 )
 
 require (
